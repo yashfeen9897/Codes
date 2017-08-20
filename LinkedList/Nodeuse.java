@@ -1,4 +1,4 @@
-package nucleus;
+package LinkedList;
 
 import java.util.Scanner;
 
