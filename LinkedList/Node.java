@@ -1,4 +1,4 @@
-package nucleus;
+package LinkedList;
 
 public class Node<T> {
 	
