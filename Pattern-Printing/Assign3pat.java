@@ -2,7 +2,7 @@ package inputoutput;
 
 import java.util.Scanner;
 
-public class pattern {
+public class Assign3pat {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
